@@ -1,0 +1,111 @@
+body {
+    text-align: center;
+    background-image: url();
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    background-color: rgb(75, 74, 74);
+    background-image: url(https://i0.wp.com/backgroundabstract.com/wp-content/uploads/edd/2022/02/333-1-e1656014656515.jpg?fit=574%2C367&ssl=1);
+}
+    header{
+    background-color: rgb(75, 74, 74);
+    text-align: center;
+}
+header h1{
+    color: aliceblue;
+    padding: 10px;
+}
+header nav ul{
+    padding: 10px;;
+}
+header nav ul li{
+    color: sandybrown;
+    display: inline;
+    padding: 40px;
+
+}
+header nav ul a{
+    text-decoration: none;
+    color:sandybrown;
+}
+#Home img{
+    background-size: 50%;
+    text-align: center;
+    border-radius: 50%;
+    justify-content: center;
+}
+#Bio {
+    text-align: center;
+    padding: center;
+
+}
+
+#Bio p{
+    margin: 350px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#Portfolio p{
+    margin: 250px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+}
+
+#Skills ul li{
+    display: inline;
+    padding: 20px;
+}
+
+
+#contact {
+    background-color:  rgb(75, 74, 74);
+    display: flex; 
+    width: 100%; 
+    color: rgb(255, 255, 255); 
+    padding: 10px; 
+    justify-content: center; 
+    align-items: center; 
+    box-sizing: border-box; 
+
+}
+
+#contact p {
+    margin: 10px; 
+    
+    
+}
+
+#contact img {
+    vertical-align: middle; 
+}
+
+#contact a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+#Home {
+    background-color: rgba(188, 184, 184, 0.8);
+}
+#Bio {
+    background-color: rgba(176, 174, 174, 0.8); 
+}
+#Portfolio {
+    background-color: rgba(179, 176, 176, 0.8);
+}
+#Skills {
+    background-color: rgba(179, 176, 176, 0.8);
+}
+#Contact {
+    background-color: rgba(182, 179, 179, 0.8); 
+}
+#contact img {
+    vertical-align: middle;
+}
+#contact a {
+    text-decoration: none;
+    color: rgb(255, 255, 255);
+}
+
+
+

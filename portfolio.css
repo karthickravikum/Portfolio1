@@ -1,6 +1,6 @@
 body {
     text-align: center;
-    background-image: url();
+    font-size: 0.8em    ;
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -41,15 +41,17 @@ header nav ul a{
 }
 
 #Bio p{
-    margin: 350px;
+    margin: 200px;
     margin-top: 1px;
     margin-bottom: 1px;
+    padding: 10px;
 }
 
 #Portfolio p{
-    margin: 250px;
+    margin: 200px;
     margin-top: 1px;
     margin-bottom: 1px;
+    padding: 10px;
 }
 
 #Skills ul li{
@@ -72,8 +74,7 @@ header nav ul a{
 
 #contact p {
     margin: 10px; 
-    
-    
+    padding: 10px;
 }
 
 #contact img {
